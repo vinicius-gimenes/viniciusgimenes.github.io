@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "br.com.sharecare.personal",
+      "sha256_cert_fingerprints": [
+        "4E:2E:CE:26:6C:FE:7B:CE:30:2B:AA:50:4E:D8:CE:18:EC:1A:07:BF:B9:9D:C1:26:41:17:4A:B4:61:F5:EA:4D",
+        "97:2A:4C:AF:F5:18:10:16:E0:B7:D0:D5:06:62:5A:1C:59:DA:35:44:DC:90:1C:A2:FB:2B:69:83:35:C4:6F:D5"
+      ]
+    }
+  }
+]

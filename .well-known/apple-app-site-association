@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "G7987SDYUW.br.com.sharecare.personal",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
